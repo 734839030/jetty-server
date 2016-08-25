@@ -1,0 +1,4 @@
+2016-08-25 15:46:13,001 [main] DEBUG [com.jetty.server.JettyStart] - read default property file jetty.properties
+2016-08-25 15:46:13,004 [main] DEBUG [com.jetty.server.JettyStart] - path : ../conf/jetty.properties
+2016-08-25 15:46:31,641 [main] DEBUG [com.jetty.server.JettyStart] - read default property file jetty.properties
+2016-08-25 15:46:31,645 [main] DEBUG [com.jetty.server.JettyStart] - path : ../conf/jetty.properties
